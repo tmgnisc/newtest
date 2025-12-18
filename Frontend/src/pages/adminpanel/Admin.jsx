@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Search } from "lucide-react";
-import SideBar from "./sidebar";
+import Sidebar from "./SideBar"
 import Stats from "./Stats";
 import RecentOrders from "./RecentOrders";
 import TodaysActivity from "./TodaysActivity";
